@@ -1,5 +1,5 @@
 //This file is linked to the html file, and ties all of the other files together.
-import './arraynotes'
+import './IMPT/arraynotes'
 import './main.css'
 import { createApp } from 'vue'
 
