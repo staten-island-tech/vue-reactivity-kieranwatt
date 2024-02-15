@@ -1,14 +1,12 @@
-import './assets/main.css'
-
+//This file is linked to the html file, and ties all of the other files together.
+import './arraynotes'
+import './main.css'
 import { createApp } from 'vue'
-import { createPinia } from 'pinia'
 
 import App from './App.vue'
 import router from './router'
 
 const app = createApp(App)
-
-app.use(createPinia())
 app.use(router)
 
 app.mount('#app')

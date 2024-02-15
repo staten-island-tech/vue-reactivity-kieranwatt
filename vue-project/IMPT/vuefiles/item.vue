@@ -1,0 +1,1 @@
+Items view, so you can see just the item when selected.

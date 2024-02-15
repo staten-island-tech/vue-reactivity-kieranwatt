@@ -1,0 +1,1 @@
+Homepage with options too add to the cart
